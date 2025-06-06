@@ -1,0 +1,3 @@
+# camera-orbit
+
+Module placeholder.

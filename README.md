@@ -183,3 +183,9 @@ Each **module** is 100 % self‑contained: `index.ts`, `README`, unit tests, p
 ---
 
 > **Next Step:** Kick‑off Phase 0 by validating adapter limits & finalising coding guidelines. Assign owners for tasks 0.1–0.4 on Monday stand‑up.
+
+---
+
+## Repository Setup
+
+This repository includes a pnpm workspace with packages for the core WebGPU utilities, optional modules and example apps. Run `pnpm install` and `pnpm -r build` to compile all packages.

@@ -1,0 +1,3 @@
+# lighting-basic
+
+Module placeholder.

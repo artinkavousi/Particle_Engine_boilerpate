@@ -1,0 +1,16 @@
+{
+  "name": "webgpu-boilerplate",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "packages/*",
+    "packages/modules/*"
+  ],
+  "scripts": {
+    "build": "echo build step",
+    "test": "echo no tests"
+  },
+  "devDependencies": {
+    "@webgpu/types": "^0.1.61"
+  }
+}
